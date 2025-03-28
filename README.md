@@ -7,7 +7,7 @@
 
 
   <div>
-    <a href="https://github.com/Wellingtonoficial">
+    <a href="https://github.com/Wellingtonn2k">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingtonoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingtonoficial&layout=compact&langs_count=7&theme=dark"/>
   </div>
