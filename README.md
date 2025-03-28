@@ -1,28 +1,18 @@
-### Olá pessoal, eu sou Wellington 👋
+### Olá pessoal 👋
 
 - 💼 Front-end & Ui
 - 🌍 [Linkedin](https://www.linkedin.com/in/wellingtondevsk/)
 
-  ![ProgrammerProgrammingGIF](https://user-images.githubusercontent.com/81135377/144106450-0a7ed006-8946-4ccc-b6a9-a8832514d0e2.gif)
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellingtonn2k&hide=contribs,prs)
 
-  <div>
-    <a href="https://github.com/Wellingtonn2k">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingtonn2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingtonn2k&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingtonn2k&hide_progress=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-
-  
-
-  
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Wellington-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wellington-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Wellington-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Wellington-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-    plain.svg">
     <img align="center" alt="Wellington-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wellington-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="Wellington-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -42,6 +32,5 @@
     <a href="https://www.linkedin.com/in/wellingtondevsk/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    
-    ![Snake animation](https://github.com/Wellingtonoficial/WellingtonOficial/blob/output/github-contribution-grid-snake.svg)
   </div>
+
