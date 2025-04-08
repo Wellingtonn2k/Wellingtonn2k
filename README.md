@@ -19,7 +19,22 @@
 </div>  
 
 #  
+<!--
+### Trabalhos Atuais
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+
+  <a href="https://github.com/Wellingtonn2k/teste1" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wellingtonn2k&repo=teste1&theme=transparent&hide_border=true&text_color=808080&title_color=FFFFFF&show_owner=true" alt="Repo 1" style="width:      32%; height: auto;">
+  </a>
+
+  <a href="https://github.com/Wellingtonn2k/teste2" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wellingtonn2k&repo=teste2&theme=transparent&hide_border=true&text_color=808080&title_color=FFFFFF&show_owner=true" alt="Repo 2" style="width:     32%; height: auto;">
+    
+  </a>
+</div>
+<br> 
+-->
 ### Linguagens Mais Usadas  
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingtonn2k&hide_progress=true&bg_color=00000000&border_color=00000000&title_color=C0C0C0&text_color=C0C0C0&hide_title=true)  
@@ -45,7 +60,7 @@
   - Kanban
   
 </div>  
-<br>  
+<br>   
 
 ### Fora do código 💬  
 
