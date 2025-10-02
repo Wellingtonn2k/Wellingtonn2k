@@ -2,9 +2,8 @@
 
 > Este é meu espaço para compartilhar projetos, explorar ideias e mostrar o que estou construindo. Sinta-se à vontade para navegar e descobrir um pouco mais sobre mim.
 
-- 💼 FrontEnd Developer & UI  
-- 🎓 Cursando Bacharelado em Sistemas de Informação (UESB)  
-- 👨‍💻 Residente [@restic36](https://www.restic36.cepedi.org.br/)  
+- 💼 FrontEnd Developer
+- 🎓 Cursando Bacharelado em Sistemas de Informação (UESB)   
 - 📍./Bahia/Jequié  
 
 <br>  
