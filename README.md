@@ -35,8 +35,7 @@
 <br> 
 -->
 ### Linguagens Mais Usadas  
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellingtonn2k&hide_progress=true&bg_color=00000000&border_color=00000000&title_color=C0C0C0&text_color=C0C0C0&hide_title=true)  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wellingtonn2k&layout=compact&theme=radical&langs_count=8)
 
 ### Ferramentas do Meu Arsenal  
 
